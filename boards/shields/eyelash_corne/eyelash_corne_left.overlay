@@ -13,3 +13,7 @@
 &left_encoder {
     status = "okay";
 };
+
+&i2c0 {
+    status = "disabled";
+};
